@@ -2,9 +2,10 @@
 ##Create Database and Schemas
 ##########################################################33
 # purpose:
-  first drop database if exits and then recreate it 
+ the purpose of the script is to creating a new data base DataWarehouse,
+  first drop database if it exists and then recreate it 
 # warning :
-  if database already exist and we run drop commond , entire database will be drop so be carefull !
+  if database already exist and we run drop commond , entire database will be drop, so be carefull !
 
 ########################################
 USE master;
