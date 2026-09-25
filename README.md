@@ -1,4 +1,4 @@
-#### Data warehouse and Analytics Project
+<img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/5fdded50-054d-4fcd-9aa2-debb2978d7de" />#### Data warehouse and Analytics Project
 
 
 ## Hello! This is Data warehouse and Analytics Repository 
@@ -10,6 +10,7 @@ This project illustrate a brief and comprehensive data warehousing and analytics
 ##Building the data warehouse (data engineering)
 
 ##Objectives
+
 develop a modern data warehouse using sql server to consolidate sales data, enabling analytical reporting and informed decision making.
 
 #### Specifications
@@ -34,8 +35,9 @@ these insights empower stakeholders with my business matrics enabling strategic 
 # Licence
 This project is learned under the MIT Licence . you are free to use , modify and share this project with proper attribution.
 
-#About me 
-HEllo ! 
-This is me Muhammad Shah . i am a student of information technology ,furthermore i am a data analyst i have skills in data analytics , i have created a lot of Real world projects and my next step is data engineer and then data scientist.
+## About Me
+This is me Muhammad Shah . I am a student of information technology, and i am a data analyst , i have created a lot of projects .i Create this project with the help of 30% and the rest of the project was so complex but i did it. it helps me a lot , i learned a lot , i gain experienced
+
+# linkedIn    https://www.linkedin.com/in/muhammad-shah-a9ba483a4/
 
 
